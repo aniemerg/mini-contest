@@ -1,0 +1,211 @@
+{
+  "averages": {
+    "technical_complexity": {
+      "mean": 3.5865384615384617,
+      "std": 0.86169083473979,
+      "count": 104
+    },
+    "web3_focus": {
+      "mean": 1.9134615384615385,
+      "std": 1.6531472136682719,
+      "count": 104
+    },
+    "developer_tool": {
+      "mean": 4.1923076923076925,
+      "std": 0.9206699387373709,
+      "count": 104
+    },
+    "project_maturity": {
+      "mean": 4.0,
+      "std": 0.8435273922869734,
+      "count": 104
+    },
+    "community_size": {
+      "mean": 3.5,
+      "std": 1.0190493307301363,
+      "count": 104
+    },
+    "enterprise_ready": {
+      "mean": 3.5865384615384617,
+      "std": 0.9668602727293372,
+      "count": 104
+    },
+    "community_engagement": {
+      "mean": 3.5961538461538463,
+      "std": 1.0332848178468992,
+      "count": 104
+    },
+    "documentation": {
+      "mean": 4.384615384615385,
+      "std": 0.8003327710263389,
+      "count": 104
+    },
+    "code_quality": {
+      "mean": 4.153846153846154,
+      "std": 0.6007884366082042,
+      "count": 104
+    },
+    "status": {
+      "mean": 3.8653846153846154,
+      "std": 0.9908979252298655,
+      "count": 104
+    },
+    "corporate": {
+      "mean": 2.605769230769231,
+      "std": 0.9549292083182965,
+      "count": 104
+    },
+    "security": {
+      "mean": 3.480769230769231,
+      "std": 0.8083788291147578,
+      "count": 104
+    },
+    "innovation": {
+      "mean": 3.4711538461538463,
+      "std": 0.8765835206294113,
+      "count": 104
+    },
+    "performance": {
+      "mean": 3.798076923076923,
+      "std": 0.8131113994582747,
+      "count": 104
+    },
+    "modularity": {
+      "mean": 3.826923076923077,
+      "std": 0.8371461099876505,
+      "count": 104
+    },
+    "accessibility": {
+      "mean": 3.5384615384615383,
+      "std": 0.6189798822858109,
+      "count": 104
+    },
+    "dependency_complexity": {
+      "mean": 3.144230769230769,
+      "std": 0.7127718001248747,
+      "count": 104
+    },
+    "api_design": {
+      "mean": 3.875,
+      "std": 0.7806247497997998,
+      "count": 104
+    },
+    "platform_coverage": {
+      "mean": 3.673076923076923,
+      "std": 0.8818938067537001,
+      "count": 104
+    },
+    "testing_sophistication": {
+      "mean": 3.6826923076923075,
+      "std": 0.8908123245853394,
+      "count": 104
+    },
+    "backward_compatibility": {
+      "mean": 3.5865384615384617,
+      "std": 0.7017913469647201,
+      "count": 104
+    },
+    "release_reliability": {
+      "mean": 3.5673076923076925,
+      "std": 0.8853989005062926,
+      "count": 104
+    },
+    "breaking_change_frequency": {
+      "mean": 3.0576923076923075,
+      "std": 0.5688538252980401,
+      "count": 104
+    },
+    "issue_resolution": {
+      "mean": 3.4423076923076925,
+      "std": 0.852901417751411,
+      "count": 104
+    },
+    "feature_velocity": {
+      "mean": 3.0673076923076925,
+      "std": 0.8235059090550114,
+      "count": 104
+    },
+    "maintenance_burden": {
+      "mean": 2.9326923076923075,
+      "std": 0.4442890404672278,
+      "count": 104
+    },
+    "learning_curve": {
+      "mean": 3.048076923076923,
+      "std": 0.5072514111196146,
+      "count": 104
+    },
+    "debug_friendliness": {
+      "mean": 3.4038461538461537,
+      "std": 0.6725272480786811,
+      "count": 104
+    },
+    "development_ergonomics": {
+      "mean": 3.798076923076923,
+      "std": 0.7643474805387385,
+      "count": 104
+    },
+    "setup_complexity": {
+      "mean": 2.8461538461538463,
+      "std": 0.6319875663521148,
+      "count": 104
+    },
+    "customization_depth": {
+      "mean": 3.4615384615384617,
+      "std": 0.9798260925274613,
+      "count": 104
+    },
+    "ecosystem_health": {
+      "mean": 3.6923076923076925,
+      "std": 1.0007393716352067,
+      "count": 104
+    },
+    "integration_ease": {
+      "mean": 3.9615384615384617,
+      "std": 0.6639490962166181,
+      "count": 104
+    },
+    "tooling_quality": {
+      "mean": 3.7211538461538463,
+      "std": 0.9451976875971784,
+      "count": 104
+    },
+    "migration_support": {
+      "mean": 2.9615384615384617,
+      "std": 0.8076923076923077,
+      "count": 104
+    },
+    "interoperability": {
+      "mean": 3.7884615384615383,
+      "std": 0.8047106135733721,
+      "count": 104
+    },
+    "response_time": {
+      "mean": 3.3365384615384617,
+      "std": 0.8837265601621889,
+      "count": 104
+    },
+    "knowledge_share": {
+      "mean": 3.6153846153846154,
+      "std": 1.0405960968052832,
+      "count": 104
+    },
+    "support_channels": {
+      "mean": 3.4615384615384617,
+      "std": 1.1596010332062567,
+      "count": 104
+    },
+    "contributor_retention": {
+      "mean": 3.1923076923076925,
+      "std": 0.9101661204768638,
+      "count": 104
+    },
+    "governance_clarity": {
+      "mean": 2.8076923076923075,
+      "std": 0.8887861544839494,
+      "count": 104
+    }
+  },
+  "total_projects": 104,
+  "timestamp": "2025-01-15 22:28:20.257909"
+}

@@ -78,6 +78,10 @@ The approach consists of several key steps:
    - Model training
    - Prediction generation
 
+## Mini-Contest 2
+
+A [second mini-contest](https://cryptopond.xyz/modelfactory/detail/306250?tab=0) has been created. Code for that contest is in DeepFunding mini-contest-2.ipynb. To use, download the dataset and unzip. 
+
 
 ## Acknowledgments
 
